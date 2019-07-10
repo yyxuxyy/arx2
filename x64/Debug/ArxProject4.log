@@ -1,0 +1,4 @@
+﻿  acrxEntryPoint.cpp
+    正在创建库 x64\Debug\ArxProject4.lib 和对象 x64\Debug\ArxProject4.exp
+rxapi.lib(libinit.obj) : warning LNK4099: 未找到 PDB“rxapi.pdb”(使用“rxapi.lib(libinit.obj)”或在“D:\lugoo\ArxProject4\x64\Debug\rxapi.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ArxProject4.vcxproj -> D:\lugoo\ArxProject4\x64\Debug\ArxProject4.arx
